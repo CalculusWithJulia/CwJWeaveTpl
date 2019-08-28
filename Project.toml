@@ -14,3 +14,6 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
 Weave = "44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9"
+
+[compat]
+julia = "≥ 1.1.0"
